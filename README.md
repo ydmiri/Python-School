@@ -1,0 +1,2 @@
+# Python-School
+PYTHON CODE FOR SCHOOL
